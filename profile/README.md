@@ -1,2 +1,3 @@
-# Level 2 Digital Tech
-We are a foward thinking development team. Curently we are working on a new note shareing application called [notes r us](https://github.com/l2dit/NotesRUs).
+# Anno
+[Anno Logo](../Media/anno_logo.png)
+Anno is a appliction in development originaly named `notes_r_us` as a school project. It is being devloped to be a effecient note sharing application lots of development to be done. 🧑‍💻
